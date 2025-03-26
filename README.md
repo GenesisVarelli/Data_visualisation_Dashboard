@@ -20,6 +20,18 @@ This project uses Tkinter to create a Data Visualisation Dashboard that displays
    ```bash
    git clone https://github.com/your-username/tkinter-data-visualisation-dashboard.git
    ```
-
+2. Install the required libraries:
+   ```bash
+   pip install matplotlib pandas
+   ```
+3. Run the application:
+   ```bash
+   python dashboard.py
+   ```
+## Usage
+1. Launch the dashboard by running dashboard.py.
+2. Select the product and year range to view visualised data.
+3. Use the interactive charts to explore trends and insights.
+   
 ## Example
 - Displays product data such as sales, stock levels, and more across different years.
